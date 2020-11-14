@@ -1,3 +1,3 @@
 # Hi, I'm Isai  
 
-This is my first readme for github profile.
+I'm software engineer recently formed in the computer sciences bases and engineering providing me maturity and various strong skills like analytical thinking and solving technical problems.
