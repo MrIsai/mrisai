@@ -4,8 +4,8 @@ I'm software engineer formed in the computer sciences bases and engineering prov
 
 ### Contact me
 
-[<img align="left" width="50" src="https://img.icons8.com/ios/50/000000/linkedin-2--v2.png"/>][linkedin]
-[<img align="left" width="50" src="https://img.icons8.com/ios/50/000000/twitter--v2.png"/>][twitter]
+[<img align="left" width="30" src="https://img.icons8.com/ios/50/000000/linkedin-2--v2.png"/>][linkedin]
+[<img align="left" width="30" src="https://img.icons8.com/ios/50/000000/twitter--v2.png"/>][twitter]
 
 <br/>
 <br/>
