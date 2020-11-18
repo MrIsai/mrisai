@@ -7,7 +7,7 @@ I'm glad that you visited me. Take a time to explore my projects :)
 ## My Best Projects
 
 - **OnShop Mobile** is a project to mobile devices (Android and iOS) developed in ***React Native*** and ***Expo***.
-- OnShop Server is a REST API that works with OnShop Mobile, this API receive and response all information necessary for the app at the mobile. This project use ***Express.js*** (to create the server and build the API) and ***PostgreSQL*** (to store the application data).
+- **OnShop Server** is a REST API that works with OnShop Mobile, this API receive and response all information necessary for the app at the mobile. This project use ***Express.js*** (to create the server and build the API) and ***PostgreSQL*** (to store the application data).
 
 ## Academic Projects
 
