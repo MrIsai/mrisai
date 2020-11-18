@@ -8,7 +8,6 @@ I'm software engineer formed in the computer sciences bases and engineering prov
 [<img align="left" width="30" src="https://img.icons8.com/ios/50/000000/twitter--v2.png"/>][twitter]
 
 <br/>
-<br/>
 <hr/>
 
 ## My Best Projects
@@ -24,7 +23,7 @@ I'm software engineer formed in the computer sciences bases and engineering prov
 
 ## Others
 
-- Quotes App is a web application built with ***MERN*** (MongoDB,Express.js, React, Node.js) Stack to practice my knowledge with ***React*** and other technologies.
+- **Quotes App** is a web application built with ***MERN*** (MongoDB, Express.js, React, Node.js) Stack to practice my knowledge with ***React*** and other technologies.
 
 [linkedin]: https://www.linkedin.com/in/isai-pashel-8793a219b/
 [twitter]: https://twitter.com/mrisai_
