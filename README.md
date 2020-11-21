@@ -17,13 +17,13 @@ I'm software engineer formed in the computer sciences bases and engineering prov
 
 ## Public Academic Projects
 
-- **Basic IoT Project** is a project to simulate the behavior of a IoT system, this project was built with ***Node.js*** and ***Express.js***.
-- **Guess A Number** is a simple game for devices Android and iOS developed in React Native.  
-- **Fragmentation & Control** is a project to simulate the TCP protocol from the application layer. This project was developed in Python.
+- [**Basic IoT Project**](https://github.com/MrIsai/cc8-iot-project) is a project to simulate the behavior of a IoT system, this project was built with ***Node.js*** and ***Express.js***.
+- [**Guess A Number**](https://github.com/MrIsai/rn-guess-a-number) is a simple game for devices Android and iOS developed in ***React Native***.  
+- [**Fragmentation & Control**](https://github.com/MrIsai/frag-control-project-01) is a project to simulate the TCP protocol from the application layer. This project was developed in ***Python***.
 
 ## Others
 
-- **Quotes App** is a web application built with ***MERN*** (MongoDB, Express.js, React, Node.js) Stack to practice my knowledge with ***React*** and other technologies.
+- [**Quotes App**](https://github.com/MrIsai/mern-quotes-app) is a web application built with ***MERN*** (MongoDB, Express.js, React, Node.js) Stack to practice my knowledge with ***React*** and other technologies.
 
 [linkedin]: https://www.linkedin.com/in/isai-pashel-8793a219b/
 [twitter]: https://twitter.com/mrisai_
