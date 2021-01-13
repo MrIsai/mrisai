@@ -12,8 +12,8 @@ I'm software engineer formed in the computer sciences bases and engineering prov
 
 ## My Best Projects
 
-- [**OnShop Mobile**](https://github.com/MrIsai/onshop-mobile-app) is a mobile application to Android and iOS devices developed in ***React Native*** and ***Expo*** .
-- [**OnShop Server**](https://github.com/MrIsai/onshop-rest-api) is a REST API that works with OnShop Mobile, this API receive and response all information necessary for the app at the mobile. This project use ***Express.js*** (to create the server and build the API) and ***PostgreSQL*** (to store the application data).
+- [**ONSHOP for Mobile**](https://github.com/MrIsai/onshop-mobile-app) is a mobile application to Android and iOS devices. The app was developed in ***React Native*** and ***Expo Framework*** .
+- [**ONSHOP REST API**](https://github.com/MrIsai/onshop-rest-api) The API has different protected endpoints with JWT (Json Web Token) to create and interact with the app information. The REST API was developed with ***Node.js***, ***Express.js***, ***MondoDB*** and other important libraries.
 
 ## Public Academic Projects
 
