@@ -1,6 +1,6 @@
 # Hi, I'm Isai 🤖
 
-I'm software engineer formed in the computer sciences bases and engineering providing me maturity and various strong skills like analytical thinking and solving technical problems. I'm a person apassionated to solve problems, make more accesible the technology and make software by love at the art.  
+I am a passionate engineer to learning, solving and developing solutions for today's problems through technology. Recently I've closed my pensum and I'm looking for an opportunity for professional and personal growth. Also I am currently studying a master's degree in research operations as a specialization of my career.
 
 ### Contact me
 
