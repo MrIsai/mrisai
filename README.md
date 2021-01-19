@@ -13,7 +13,7 @@ I am a passionate engineer to learning, solving and developing solutions for tod
 ## My Best Projects
 
 - [**ONSHOP for Mobile**](https://github.com/MrIsai/onshop-mobile-app) is a mobile application to Android and iOS devices. The app was developed in ***React Native*** and ***Expo Framework*** .
-- [**ONSHOP REST API**](https://github.com/MrIsai/onshop-rest-api) The API has different protected endpoints with JWT (Json Web Token) to create and interact with the app information. The REST API was developed with ***Node.js***, ***Express.js***, ***MondoDB*** and other important libraries.
+- [**ONSHOP REST API**](https://github.com/MrIsai/onshop-rest-api) The API has different protected endpoints with JWT (Json Web Token) to create and interact with the app information. The REST API was developed with ***Node.js***, ***Express.js***, ***MongoDB*** and other important libraries.
 
 ## Public Academic Projects
 
