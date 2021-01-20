@@ -29,7 +29,7 @@ Check out my other projects in my [Codepen.io profile](https://codepen.io/isai-p
 
 ## Others
 
-- [**Quotes App**](https://github.com/MrIsai/mern-quotes-app) is a web application built with ***MERN*** (MongoDB, Express.js, React, Node.js) Stack to practice my knowledge with ***React*** and other technologies.
+- [**Quotes App**](https://github.com/MrIsai/mern-quotes-app) is a web application built with **MongoDB**, **Express.js**, **Node.js** and **React.js** (*MERN Stack*) to practice my knowledge with *React Components* and other technologies.
 
 [linkedin]: https://www.linkedin.com/in/isai-pashel-8793a219b/
 [twitter]: https://twitter.com/mrisai_
