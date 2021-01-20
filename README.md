@@ -14,6 +14,7 @@ Check out my other projects in my [Codepen.io profile](https://codepen.io/isai-p
 
 <br/>
 <hr/>
+<br/>
 
 ## My Best Projects
 
