@@ -1,8 +1,13 @@
 # Hi, I'm Isai 🤖
 
-I am a passionate engineer to learning, solving and developing solutions for today's problems through technology. Recently I've closed my pensum and I'm looking for an opportunity for professional and personal growth. Also I am currently studying a master's degree in research operations as a specialization of my career.
 
-### Contact me
+## About me
+
+I'm a software engineer with a passion for trying to make a better world through technology. I would like to share some of my projects through this platform in order to remember and share the work I have done over time. You can explore some of the projects in the following sections below, thank you very much for visiting my profile and I hope you like it.
+
+Check out my other projects in my [Codepen.io profile](https://codepen.io/isai-pashel).
+
+## Contact me
 
 [<img align="left" width="30" src="https://img.icons8.com/ios/50/000000/linkedin-2--v2.png"/>][linkedin]
 [<img align="left" width="30" src="https://img.icons8.com/ios/50/000000/twitter--v2.png"/>][twitter]
