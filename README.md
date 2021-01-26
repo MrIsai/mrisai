@@ -9,12 +9,8 @@ Check out my other projects in my [Codepen.io profile](https://codepen.io/isai-p
 
 ## Contact me
 
-[<img align="left" width="30" src="https://img.icons8.com/ios/50/000000/linkedin-2--v2.png"/>][linkedin]
-[<img align="left" width="30" src="https://img.icons8.com/ios/50/000000/twitter--v2.png"/>][twitter]
-
-<br/>
-<hr/>
-<br/>
+- [Twitter][twitter]
+- [Linkedin][linkedin]
 
 ## My Best Projects
 
