@@ -5,7 +5,7 @@
 
 I'm a software engineer with a passion for trying to make a better world through technology. I would like to share some of my projects through this platform in order to remember and share the work I have done over time. You can explore some of the projects in the following sections below, thank you very much for visiting my profile and I hope you like it.
 
-Check out my other projects in my [Codepen.io profile](https://codepen.io/isai-pashel).
+Check out my other projects in my [Codepen.io account](https://codepen.io/isai-pashel).
 
 ## Contact me
 
