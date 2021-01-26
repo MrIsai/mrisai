@@ -23,7 +23,8 @@ This project is available in three platforms:
 - [**ONSHOP for Mobile Devices (Android & iOS)**](https://github.com/MrIsai/onshop-mobile-app) (*Developed with **React Native** + **Expo***)
 
 The services are provided through a REST API:
-- [**ONSHOP - REST API**](https://github.com/MrIsai/onshop-rest-api) (*Developed with **Node.js** + **Express.js** + **MongoDB***)
+
+- [**ONSHOP - REST API**](https://github.com/MrIsai/onshop-rest-api) (*Developed with **Node.js** + **Typescript** + **Express.js** + **MongoDB***)  
 
 ## Public Academic Projects
 
