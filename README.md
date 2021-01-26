@@ -18,7 +18,7 @@ Check out my other projects in my [Codepen.io profile](https://codepen.io/isai-p
 
 ## My Best Projects
 
-### ONSHOP PROJECTS
+### ONSHOP PROJECTS [*alpha-versions*]
 ONSHOP is a big e-commerce project to support small business and entrepreneurs. The objetive of the project is provide analitycs tools, unique shop profile appearance, expand business through the internet and more e-commerce app functions.
 
 This project is available in three platforms:
