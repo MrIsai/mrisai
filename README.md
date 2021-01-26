@@ -18,8 +18,16 @@ Check out my other projects in my [Codepen.io profile](https://codepen.io/isai-p
 
 ## My Best Projects
 
-- [**ONSHOP for Mobile**](https://github.com/MrIsai/onshop-mobile-app) is a mobile application to Android and iOS devices. The app was developed in ***React Native*** and ***Expo Framework*** .
-- [**ONSHOP REST API**](https://github.com/MrIsai/onshop-rest-api) The API has different protected endpoints with JWT (Json Web Token) to create and interact with the app information. The REST API was developed with ***Node.js***, ***Express.js***, ***MongoDB*** and other important libraries.
+### ONSHOP PROJECTS
+ONSHOP is a big e-commerce project to support small business and entrepreneurs. The objetive of the project is provide analitycs tools, unique shop profile appearance, expand business through the internet and more e-commerce app functions.
+
+This project is available in three platforms:
+
+- [**ONSHOP for Web**](https://github.com/MrIsai/onshop-web-version)
+- [**ONSHOP for Mobile Devices**](https://github.com/MrIsai/onshop-mobile-app)
+
+The services are provided through a REST API:
+- [**ONSHOP - REST API**](https://github.com/MrIsai/onshop-rest-api)
 
 ## Public Academic Projects
 
