@@ -19,11 +19,11 @@ ONSHOP is a big e-commerce project to support small business and entrepreneurs. 
 
 This project is available in three platforms:
 
-- [**ONSHOP for Web**](https://github.com/MrIsai/onshop-web-version)
-- [**ONSHOP for Mobile Devices (Android & iOS)**](https://github.com/MrIsai/onshop-mobile-app)
+- [**ONSHOP for Web**](https://github.com/MrIsai/onshop-web-version) (*Developed with **React.js** + **Typescript***)
+- [**ONSHOP for Mobile Devices (Android & iOS)**](https://github.com/MrIsai/onshop-mobile-app) (*Developed with **React Native** + **Expo***)
 
 The services are provided through a REST API:
-- [**ONSHOP - REST API**](https://github.com/MrIsai/onshop-rest-api)
+- [**ONSHOP - REST API**](https://github.com/MrIsai/onshop-rest-api) (*Developed with **Node.js** + **Express.js** + **MongoDB***)
 
 ## Public Academic Projects
 
